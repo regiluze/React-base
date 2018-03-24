@@ -1,2 +1,4 @@
 # React-base
-Base React proyect 
+Base React project
+
+A base react project with webpack and babel
