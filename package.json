@@ -1,0 +1,23 @@
+{
+  "name": "react-base",
+  "version": "1.0.0",
+  "description": "A base react project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regiluze/React-base.git"
+  },
+  "keywords": [
+    "react",
+    "scratch"
+  ],
+  "author": "regiluze",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/regiluze/React-base/issues"
+  },
+  "homepage": "https://github.com/regiluze/React-base#readme"
+}
